@@ -12,7 +12,7 @@
 
   FileDownLoad  文件下载
 
-  FileParse     提前excel文件中的下载链接
+  FileParse     提取excel文件中的下载链接
 
   UrlManager    url管理器
 
